@@ -1,0 +1,26 @@
+{
+  "name": "RETIE.IA - Asistente Técnico",
+  "short_name": "RETIE.IA",
+  "description": "Asistente de ingeniería eléctrica basado en documentos PDF",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0f2e45",
+  "theme_color": "#0f2e45",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "education"],
+  "lang": "es"
+}
